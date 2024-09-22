@@ -21,7 +21,7 @@ This is a simple Telegram bot that runs on Google Cloud Functions. It uses the f
      ```
     - **Example:**
       ```bash
-      curl "https://api.telegram.org/bot6212855663:AAGJF62WT0JpJDkV_MoDf4nsFS-H5vXQwR0/setWebhook?url=https://us-central1-awanmasterpiece.cloudfunctions.net/telegram-bot-gcf-prd"
+      curl "https://api.telegram.org/bot621285xxxxxxx:AAGJF62SampleTokenJanganPakaiIni/setWebhook?url=https://us-central1-awanmasterpiece.cloudfunctions.net/telegram-bot-gcf-prd"
       ```
 4. Make sure to setup cloud function to unauthenticated user
 
